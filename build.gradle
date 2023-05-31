@@ -51,6 +51,7 @@ dependencies {
     implementation 'io.jmix.quartz:jmix-quartz-ui-starter'
     implementation 'io.jmix.audit:jmix-audit-starter'
     implementation 'io.jmix.audit:jmix-audit-ui-starter'
+    implementation 'io.jmix.ldap:jmix-ldap-starter'
 }
 
 test {
